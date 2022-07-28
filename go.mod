@@ -1,4 +1,4 @@
-module sigs.k8s.io/aws-iam-authenticator
+module github.com/jetpack-io/aws-iam-authenticator
 
 go 1.16
 
